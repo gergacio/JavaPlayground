@@ -1,5 +1,5 @@
-public class BasicSyntaxConditionsLoops {
-    public BasicSyntaxConditionsLoops(){}
+public class ConditionsLoops {
+    public ConditionsLoops(){}
 
     //Problem 01------------------------------------------------------------------------
     //Print the input in the following format:
