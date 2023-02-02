@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
-public class BasicsArrays {
+public class BasicArray {
 
-    public BasicsArrays(){}
+    public BasicArray(){}
 
     //Problem 01------------------------------------------------------------------------
     //Enter a day number [1…7] and print
