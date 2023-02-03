@@ -8,7 +8,7 @@ import java.util.List;
 public class BasicList {
     public BasicList(){}
 
-    //Test Problem 01----------------------------------------------------------------------------------
+    //Problem 01----------------------------------------------------------------------------------
     //Write a program to sum all adjacent equal numbers in a list of
     //decimal numbers, starting from left to right
         //3 3 6 1 => 12 1
@@ -33,7 +33,7 @@ public class BasicList {
         }
         return String.format("%s",list);
     }
-    //Test Problem 02----------------------------------------------------------------------------------
+    //Problem 02----------------------------------------------------------------------------------
     //Write a program that sums all numbers in a list in the
     //following order:
     //first + last, first + 1 + last - 1, first + 2 + last - 2, … first + n, last – n
@@ -59,7 +59,7 @@ public class BasicList {
        return String.format("%s",list);
     }
 
-    //Problem 02----------------------------------------------------------------------------------
+    //Problem 03----------------------------------------------------------------------------------
     //reorder List
     public String reorder(ArrayList<Integer> list){
         Collections.sort(list);
