@@ -2,7 +2,7 @@
 01. Conditions, Loops
 02. Data Types
 03. Arrays
-04. Methods
+04. fundamentals.Methods
 05. Lists
 06. Strings and Text Processing
 07. Maps, Lambda and Stream API

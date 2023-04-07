@@ -1,11 +1,6 @@
+import fundamentals.ObjectsAndClasses;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.math.BigDecimal;
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
