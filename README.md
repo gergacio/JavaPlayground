@@ -12,5 +12,5 @@
 11. Exception Handling
 12. Java API Classes
 
-Tools and technologies used: Java 19, JUnit 5, Intellij IDEA 2022
+Tools and technologies used: Java 19 | JUnit 5 | Intellij IDEA 2022
 
