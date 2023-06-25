@@ -1,14 +1,15 @@
-import fundamentals.Methods;
+
+import fundamentals.D_Methods;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class MethodsTest {
-    Methods methods;
+    D_Methods methods;
     @Before
     public void before() {
         //update with new instances each time
-        methods = new Methods();
+        methods = new D_Methods();
     }
     //Test Problem 01----------------------------------------------------------------------------------
     @Test
