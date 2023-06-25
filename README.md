@@ -59,7 +59,4 @@ Created by [@GGG](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) - feel 
 
 
 
-Tools and technologies used: Java 19 | JUnit 5 | Intellij IDEA 2022
-=======
-
 
