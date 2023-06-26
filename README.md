@@ -27,7 +27,7 @@ List the ready features here:
 - Conditions, Loops
 - Data Types
 - Arrays
-- fundamentals.Methods
+- Fundamentals.Methods
 - Lists
 - Strings and Text Processing
 - Maps, Lambda and Stream API
