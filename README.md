@@ -1,4 +1,4 @@
-# PlayWithJava
+# JavaPlayground
 > Live demo [_here_](). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 <!-- * [License](#license) -->
 
 ## General Information
-- PlayWithJava help you to practice for Java certification from Oracle.
+- JavaPlayground help you to practice for Java certification from Oracle.
 
 ## Technologies Used
 
@@ -38,17 +38,14 @@ List the ready features here:
 - Java API Classes
 
 ## Screenshots
-<!-- ![Example screenshot](./screenshots/) -->
 
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
 
-<!-- Proceed to describe how to install / get started with the project. -->
 
 
 ## Usage
-<!-- How does one go about using it? -->
+
 
 
 ## Project Status
